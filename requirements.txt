@@ -1,0 +1,16 @@
+# Core
+streamlit>=1.35.0
+pandas>=2.0.0
+plotly>=5.18.0
+python-dotenv>=1.0.0
+
+# AI Providers (install at least one)
+google-generativeai>=0.5.0   # Gemini — get key at aistudio.google.com
+groq>=0.9.0                  # Groq   — get key at console.groq.com
+
+# MongoDB (optional — for upload history & query logging)
+pymongo>=4.6.0
+
+# RAG / Vector search (optional — for "Build Search Index" feature)
+chromadb>=0.4.0
+sentence-transformers>=2.7.0

@@ -1,0 +1,142 @@
+product,brand,review_text,rating,sentiment,category,date
+Navratna Oil,Navratna Oil,"Bahut acha product hai, cooling effect really works during summers. My family has been using it for years.",5,positive,cooling,2024-01-15
+Navratna Oil,Navratna Oil,cooling acha hai but smell strong hai. Thoda adjust karna padta hai.,3,mixed,fragrance,2024-01-18
+Navratna Oil,Navratna Oil,Packaging leak ho gaya during delivery. Product spilled all over the box. Very disappointed.,2,negative,packaging,2024-01-20
+Navratna Oil,Navratna Oil,Best oil for headache relief. Apply karo aur instant ठंडक milti hai. Highly recommended.,5,positive,cooling,2024-01-22
+Navratna Oil,Navratna Oil,Hair fall kam hua after regular use for 2 months. Scalp bhi healthy lagti hai.,4,positive,hair_care,2024-01-25
+Navratna Oil,Navratna Oil,Price thoda high hai compared to local brands but quality is worth it.,3,mixed,pricing,2024-01-28
+Navratna Oil,Navratna Oil,Texture achha hai but price thoda high hai. Will continue buying though.,3,mixed,pricing,2024-02-01
+Navratna Oil,Navratna Oil,Bahut sticky feel hota hai. Doesn't absorb well into scalp. Not recommended for daily use.,2,negative,texture,2024-02-03
+Navratna Oil,Navratna Oil,My grandmother recommended this oil. Generations of trust. Still the best cooling oil in market.,5,positive,brand_trust,2024-02-05
+Navratna Oil,Navratna Oil,Strong herbal fragrance is actually a positive for me. Feels authentic and natural.,4,positive,fragrance,2024-02-08
+Navratna Oil,Navratna Oil,Bottle cap is loose and oil keeps spilling. Please fix the packaging issue.,2,negative,packaging,2024-02-10
+Navratna Oil,Navratna Oil,Oil ka effect acha hai. Cooling sensation lasts for hours. Perfect for Indian summers.,5,positive,cooling,2024-02-12
+Navratna Oil,Navratna Oil,Regular use se dandruff control hua. Very happy with results after 6 weeks.,4,positive,hair_care,2024-02-15
+Navratna Oil,Navratna Oil,Smell is too overwhelming for office use. Only use at night now.,3,mixed,fragrance,2024-02-18
+Navratna Oil,Navratna Oil,Sabse best cooling oil hai market mein. No competition. 5 stars always.,5,positive,cooling,2024-02-20
+Navratna Oil,Navratna Oil,Quantity kam ho gayi but price same hai. Not fair to loyal customers.,2,negative,pricing,2024-02-22
+Navratna Oil,Navratna Oil,Great for stress relief. Massaging with this oil before sleep is pure bliss.,5,positive,wellness,2024-02-25
+Navratna Oil,Navratna Oil,Average product. Nothing special. Many cheaper alternatives available.,3,mixed,value,2024-02-28
+Navratna Oil,Navratna Oil,The new bottle design is better but old formula was more effective I feel.,3,mixed,product_quality,2024-03-01
+Navratna Oil,Navratna Oil,Bought for my mother. She loves it. Says it reminds her of her childhood.,5,positive,brand_trust,2024-03-05
+Navratna Oil,Navratna Oil,Too oily consistency. Hard to wash off. Leaves hair greasy for entire day.,2,negative,texture,2024-03-08
+Navratna Oil,Navratna Oil,Cooling effect is genuine and long lasting. Perfect value for money.,4,positive,cooling,2024-03-10
+Navratna Oil,Navratna Oil,Pump bottle variant is much more convenient. Good innovation from Emami.,4,positive,packaging,2024-03-12
+Navratna Oil,Navratna Oil,Fragrance is too strong for my liking. Gives me headache sometimes.,2,negative,fragrance,2024-03-15
+Navratna Oil,Navratna Oil,Classic Indian hair oil. Nothing beats this for summer use. Trusted brand.,5,positive,brand_trust,2024-03-18
+Kesh King Oil,Kesh King Oil,Hair growth has visibly improved after 3 months of use. Really effective product.,5,positive,hair_growth,2024-01-12
+Kesh King Oil,Kesh King Oil,Kesh King mein jo ayurvedic ingredients hain woh genuine feel hote hain. Nice product.,4,positive,ingredients,2024-01-15
+Kesh King Oil,Kesh King Oil,Expected better results. Hair fall still same after 6 weeks. Disappointed.,2,negative,hair_growth,2024-01-18
+Kesh King Oil,Kesh King Oil,"Price is justified given the ingredients. Amla, brahmi all natural goodness.",4,positive,ingredients,2024-01-20
+Kesh King Oil,Kesh King Oil,Packaging is very premium. Bottle design looks expensive and trustworthy.,4,positive,packaging,2024-01-25
+Kesh King Oil,Kesh King Oil,Smell is pleasant and not too overpowering. Suits daily use well.,4,positive,fragrance,2024-01-28
+Kesh King Oil,Kesh King Oil,Bahut patla oil hai. Doesn't feel rich enough for deep conditioning.,3,mixed,texture,2024-02-01
+Kesh King Oil,Kesh King Oil,My hair has become noticeably thicker after 2 months. Highly recommend.,5,positive,hair_growth,2024-02-05
+Kesh King Oil,Kesh King Oil,Shampoo wala combo better value for money. Oil alone is slightly expensive.,3,mixed,pricing,2024-02-08
+Kesh King Oil,Kesh King Oil,Used for 4 months. Dandruff gone completely. Scalp health improved significantly.,5,positive,hair_care,2024-02-10
+Kesh King Oil,Kesh King Oil,Too light consistency. Feels like regular oil with just fragrance added.,2,negative,product_quality,2024-02-15
+Kesh King Oil,Kesh King Oil,Celebrity endorsement hai but product is genuinely good too. Works as advertised.,4,positive,brand_trust,2024-02-18
+Kesh King Oil,Kesh King Oil,Leaked during shipping. Half the bottle was empty. Very bad packaging quality.,1,negative,packaging,2024-02-20
+Kesh King Oil,Kesh King Oil,Results are slow but consistent. Need patience of at least 8-10 weeks.,3,mixed,hair_growth,2024-02-25
+Kesh King Oil,Kesh King Oil,Best for post-pregnancy hair fall. My doctor also recommended this brand.,5,positive,hair_care,2024-03-01
+Kesh King Oil,Kesh King Oil,Value for money is decent. Good ayurvedic formulation at accessible price point.,4,positive,value,2024-03-05
+Kesh King Oil,Kesh King Oil,Consistency is too thin. Doesn't stay on scalp. Runs down the neck.,2,negative,texture,2024-03-08
+Kesh King Oil,Kesh King Oil,Fragrance disappears too quickly after application. Expected longer lasting scent.,3,mixed,fragrance,2024-03-10
+Kesh King Oil,Kesh King Oil,My husband started using and he already sees less hair fall. Great product.,5,positive,hair_growth,2024-03-12
+Kesh King Oil,Kesh King Oil,Ayurvedic formulation is the USP. You can feel the natural ingredients at work.,4,positive,ingredients,2024-03-15
+BoroPlus,BoroPlus,Winter essential! BoroPlus has saved my skin from extreme dryness every year.,5,positive,moisturizing,2024-01-10
+BoroPlus,BoroPlus,Antiseptic cream works well for minor cuts. Fast healing. Trusted family product.,5,positive,healing,2024-01-12
+BoroPlus,BoroPlus,Smell is very strong and medicinal. Not pleasant for regular face use.,2,negative,fragrance,2024-01-15
+BoroPlus,BoroPlus,Very thick consistency. Takes time to absorb. Leaves white marks on clothes.,3,mixed,texture,2024-01-18
+BoroPlus,BoroPlus,Lips ke liye perfect hai winters mein. Best lip balm replacement ever.,5,positive,moisturizing,2024-01-20
+BoroPlus,BoroPlus,Original green variant best hai. New variants don't match the classic formula.,4,positive,product_quality,2024-01-25
+BoroPlus,BoroPlus,Price has increased too much. Earlier was very affordable. Now feels premium priced.,3,mixed,pricing,2024-01-28
+BoroPlus,BoroPlus,Cracked heels treated in just one week. Magical product for winter skin care.,5,positive,healing,2024-02-01
+BoroPlus,BoroPlus,Tube packaging is convenient but gets empty too fast. Need bigger size option.,3,mixed,packaging,2024-02-05
+BoroPlus,BoroPlus,BoroPlus is childhood nostalgia. Mummy always applied this. Still the best.,5,positive,brand_trust,2024-02-08
+BoroPlus,BoroPlus,Doesn't work for oily skin types. Only suitable for dry skin people.,2,negative,skin_type,2024-02-10
+BoroPlus,BoroPlus,Antiseptic property is genuine. Healed my son's wound without any infection.,5,positive,healing,2024-02-15
+BoroPlus,BoroPlus,Too greasy for face. Only use on hands and feet. Face me nahi lagata.,3,mixed,texture,2024-02-18
+BoroPlus,BoroPlus,Best winter moisturizer at this price point. Nothing else comes close.,5,positive,value,2024-02-20
+BoroPlus,BoroPlus,New packaging looks cheap compared to older design. Quality feels compromised.,2,negative,packaging,2024-02-25
+BoroPlus,BoroPlus,Instant relief from dryness. Works overnight. Skin feels like new in morning.,5,positive,moisturizing,2024-03-01
+BoroPlus,BoroPlus,Medicinal smell is signature but can be reduced a bit for modern consumers.,3,mixed,fragrance,2024-03-05
+BoroPlus,BoroPlus,Genuine ayurvedic cream. No harmful chemicals. Safe for entire family use.,4,positive,safety,2024-03-08
+BoroPlus,BoroPlus,Availability is issue in smaller towns. Should improve distribution network.,3,mixed,availability,2024-03-10
+BoroPlus,BoroPlus,The small travel size is brilliant idea. Convenient for on-the-go use.,4,positive,packaging,2024-03-12
+Dabur Amla,Dabur Amla,Dabur Amla is classic but feels outdated now. Younger generation prefers newer brands.,3,mixed,brand_relevance,2024-01-10
+Dabur Amla,Dabur Amla,Strong amla fragrance is authentic. This is how proper hair oil should smell.,4,positive,fragrance,2024-01-12
+Dabur Amla,Dabur Amla,Very affordable pricing. Best budget hair oil for Indian households.,5,positive,pricing,2024-01-15
+Dabur Amla,Dabur Amla,Hair shine improved significantly. Amla is genuinely good for hair health.,4,positive,hair_care,2024-01-18
+Dabur Amla,Dabur Amla,Old school oil. Heavy texture. Not suitable for modern hair care routine.,2,negative,texture,2024-01-20
+Dabur Amla,Dabur Amla,Packaging is basic and not attractive at all. Needs modernization urgently.,3,mixed,packaging,2024-01-25
+Dabur Amla,Dabur Amla,Been using since childhood. Consistent quality. No disappointment ever.,5,positive,brand_trust,2024-01-28
+Dabur Amla,Dabur Amla,Too heavy. Makes hair greasy for 2 days. Hard to wash off completely.,2,negative,texture,2024-02-01
+Dabur Amla,Dabur Amla,Natural amla extract is visible difference. Hair quality improved in 6 weeks.,4,positive,hair_care,2024-02-05
+Dabur Amla,Dabur Amla,Price is unbeatable. Same quality as expensive brands at fraction of cost.,5,positive,pricing,2024-02-08
+Dabur Amla,Dabur Amla,Scent is old fashioned. Young consumers find it unappealing. Needs reformulation.,2,negative,fragrance,2024-02-10
+Dabur Amla,Dabur Amla,Good for grey hair prevention claim but results vary person to person.,3,mixed,hair_care,2024-02-15
+Dabur Amla,Dabur Amla,Amla ka natural benefit milta hai. Genuine herbal formula. Trusted brand.,4,positive,ingredients,2024-02-18
+Dabur Amla,Dabur Amla,Leaked through cap. Entire bag was oily. Packaging quality control needed.,1,negative,packaging,2024-02-20
+Dabur Amla,Dabur Amla,Perfect for oil massage before washing hair. Traditional Indian hair care ritual.,4,positive,hair_care,2024-02-25
+Mamaearth Onion Oil,Mamaearth Onion Oil,Very light and non-greasy. Absorbs fast. Perfect for daily application.,5,positive,texture,2024-01-10
+Mamaearth Onion Oil,Mamaearth Onion Oil,Hair fall reduced noticeably in 4 weeks. Onion oil formula actually works.,5,positive,hair_growth,2024-01-12
+Mamaearth Onion Oil,Mamaearth Onion Oil,Price is premium but quality justifies it. Modern clean beauty approach.,4,positive,value,2024-01-15
+Mamaearth Onion Oil,Mamaearth Onion Oil,No onion smell! They've managed to eliminate the odor completely. Genius.,5,positive,fragrance,2024-01-18
+Mamaearth Onion Oil,Mamaearth Onion Oil,Packaging is beautiful. Feels like luxury product. Instagram-worthy unboxing.,5,positive,packaging,2024-01-20
+Mamaearth Onion Oil,Mamaearth Onion Oil,Toxin free claim is marketing. Same ingredients as cheaper brands. Overpriced.,2,negative,value,2024-01-25
+Mamaearth Onion Oil,Mamaearth Onion Oil,Results take very long. 3 months and minimal improvement. Not worth premium price.,2,negative,hair_growth,2024-01-28
+Mamaearth Onion Oil,Mamaearth Onion Oil,Good marketing but mediocre product. Dabur Amla gives better results for less.,3,mixed,product_quality,2024-02-01
+Mamaearth Onion Oil,Mamaearth Onion Oil,Clean ingredients list. No sulfates parabens. Genuinely natural formulation.,4,positive,ingredients,2024-02-05
+Mamaearth Onion Oil,Mamaearth Onion Oil,Trendy brand but results are inconsistent. Hit or miss for different hair types.,3,mixed,product_quality,2024-02-08
+Mamaearth Onion Oil,Mamaearth Onion Oil,Fragrance is pleasant and mild. Unlike traditional oils. Suits modern lifestyle.,4,positive,fragrance,2024-02-10
+Mamaearth Onion Oil,Mamaearth Onion Oil,Customer service is excellent. Replaced damaged product without hassle.,5,positive,customer_service,2024-02-15
+Mamaearth Onion Oil,Mamaearth Onion Oil,Too expensive for quantity provided. Half the price for double the quantity at Dabur.,2,negative,pricing,2024-02-18
+Mamaearth Onion Oil,Mamaearth Onion Oil,Scalp health improved. Less itching and flaking. Works as a serum too.,4,positive,hair_care,2024-02-20
+Mamaearth Onion Oil,Mamaearth Onion Oil,Gen Z brand but genuine results. My daughter recommended and she was right.,4,positive,brand_trust,2024-02-25
+Himalaya Hair Oil,Himalaya Hair Oil,Gentle formula. Perfect for sensitive scalp. No irritation at all.,5,positive,safety,2024-01-10
+Himalaya Hair Oil,Himalaya Hair Oil,Herbal ingredients are genuine Himalaya quality. Very trustworthy brand.,4,positive,ingredients,2024-01-12
+Himalaya Hair Oil,Himalaya Hair Oil,Light oil consistency. Good for summer use. Doesn't feel heavy.,4,positive,texture,2024-01-15
+Himalaya Hair Oil,Himalaya Hair Oil,Dandruff treatment variant actually works. Cleared dandruff in 3 weeks.,5,positive,hair_care,2024-01-18
+Himalaya Hair Oil,Himalaya Hair Oil,Average product. Nothing exceptional. Priced reasonably at least.,3,mixed,value,2024-01-20
+Himalaya Hair Oil,Himalaya Hair Oil,Fragrance is subtle and natural. Not like chemical perfume. Very pleasant.,4,positive,fragrance,2024-01-25
+Himalaya Hair Oil,Himalaya Hair Oil,Results are slow but product is gentle. Good for long-term maintenance.,3,mixed,hair_growth,2024-01-28
+Himalaya Hair Oil,Himalaya Hair Oil,Himalaya brand trust is strong. Always consistent quality across all products.,4,positive,brand_trust,2024-02-01
+Himalaya Hair Oil,Himalaya Hair Oil,Packaging is simple but functional. No frills which is fine.,3,mixed,packaging,2024-02-05
+Himalaya Hair Oil,Himalaya Hair Oil,Good for children's hair. Safe natural formula. Pediatrician recommended brand.,5,positive,safety,2024-02-08
+Himalaya Hair Oil,Himalaya Hair Oil,Not as effective as claimed for hair growth. Only average results in 8 weeks.,3,mixed,hair_growth,2024-02-10
+Himalaya Hair Oil,Himalaya Hair Oil,Best value among herbal oil brands. Quality to price ratio is excellent.,4,positive,value,2024-02-15
+Himalaya Hair Oil,Himalaya Hair Oil,Oil texture is perfect. Not too thick not too thin. Applies evenly.,4,positive,texture,2024-02-18
+Himalaya Hair Oil,Himalaya Hair Oil,Available everywhere including small pharmacies. Very good distribution.,4,positive,availability,2024-02-20
+Himalaya Hair Oil,Himalaya Hair Oil,Clinical testing claims are credible. Feel safe using this brand for family.,4,positive,safety,2024-02-25
+Navratna Oil,Navratna Oil,Summer must-have product. Already on my third bottle this season.,5,positive,cooling,2024-03-20
+Navratna Oil,Navratna Oil,Garam weather mein is oil ka koi jawab nahi. Instant cooling after application.,5,positive,cooling,2024-03-22
+Navratna Oil,Navratna Oil,Old packaging was better. New bottle design is slippery and hard to grip.,3,mixed,packaging,2024-03-25
+Navratna Oil,Navratna Oil,Had allergic reaction on scalp. Stopped using after two applications.,1,negative,safety,2024-03-28
+Kesh King Oil,Kesh King Oil,Shampoo and oil combination pack is great value. Both work well together.,4,positive,value,2024-03-20
+Kesh King Oil,Kesh King Oil,Been using for 6 months. Hair texture completely transformed. Amazing product.,5,positive,hair_care,2024-03-22
+BoroPlus,BoroPlus,Useful product but marketing could be better. Younger audience unaware of benefits.,3,mixed,brand_relevance,2024-03-15
+BoroPlus,BoroPlus,Winter skin rescue cream. Always stock 2-3 tubes before winter season.,5,positive,moisturizing,2024-03-18
+Dabur Amla,Dabur Amla,Classic reliable product. No innovation though. Stuck in past decade aesthetics.,3,mixed,brand_relevance,2024-03-01
+Dabur Amla,Dabur Amla,Widely available even in rural areas. Great distribution network.,4,positive,availability,2024-03-05
+Mamaearth Onion Oil,Mamaearth Onion Oil,D2C brand delivered quickly. Packaging very secure. No leakage issue.,4,positive,packaging,2024-03-01
+Mamaearth Onion Oil,Mamaearth Onion Oil,Celebrity influence is too much. Price inflated because of endorsements.,2,negative,pricing,2024-03-05
+Himalaya Hair Oil,Himalaya Hair Oil,Pharmacy brand credibility makes this trusted for medicinal hair problems.,4,positive,brand_trust,2024-03-01
+Himalaya Hair Oil,Himalaya Hair Oil,Wish there were more variants for different hair types. Limited options.,3,mixed,product_range,2024-03-05
+Navratna Oil,Navratna Oil,Tried cheaper alternatives but always come back to Navratna. Unbeatable.,5,positive,brand_trust,2024-04-01
+Navratna Oil,Navratna Oil,Cool cooling effect but the oil is too thick for my fine hair type.,3,mixed,texture,2024-04-03
+Navratna Oil,Navratna Oil,Perfect gifting option for elders. They love the traditional formula.,4,positive,brand_trust,2024-04-05
+Kesh King Oil,Kesh King Oil,Scalp massage with this oil is very relaxing. Good consistency for massage.,4,positive,wellness,2024-04-01
+Kesh King Oil,Kesh King Oil,Decent product but similar options available at lower price from other brands.,3,mixed,value,2024-04-03
+BoroPlus,BoroPlus,Face whitening claim is misleading marketing. Just a moisturizer basically.,2,negative,product_quality,2024-04-01
+BoroPlus,BoroPlus,Healing property is real though. Small wounds heal faster with BoroPlus.,4,positive,healing,2024-04-03
+Dabur Amla,Dabur Amla,Traditional Indian hair care. No modern formulation but reliable basics.,3,mixed,product_quality,2024-04-01
+Mamaearth Onion Oil,Mamaearth Onion Oil,Certified organic claim is authentic. Third party verified. Builds trust.,4,positive,ingredients,2024-04-01
+Himalaya Hair Oil,Himalaya Hair Oil,Students and budget conscious buyers love Himalaya pricing. Very accessible.,4,positive,pricing,2024-04-01
+Navratna Oil,Navratna Oil,Heat mein sirf Navratna hi kaam karta hai. Tried so many alternatives.,5,positive,cooling,2024-04-08
+Navratna Oil,Navratna Oil,New limited edition fragrance variant smells great. Innovation appreciated.,4,positive,fragrance,2024-04-10
+Kesh King Oil,Kesh King Oil,Long term use definitely shows results. Patience required but worth it.,4,positive,hair_growth,2024-04-08
+BoroPlus,BoroPlus,The antiseptic tube is my first aid kit essential. Never travel without it.,5,positive,healing,2024-04-08
+Dabur Amla,Dabur Amla,Grandparents prefer Dabur. Younger generation shifts to modern brands like Mamaearth.,3,mixed,brand_relevance,2024-04-05
+Mamaearth Onion Oil,Mamaearth Onion Oil,Influencer driven brand. Quality is decent but hype is more than reality.,3,mixed,brand_trust,2024-04-08
+Himalaya Hair Oil,Himalaya Hair Oil,Dermatologist approved claim adds credibility. Good for those with scalp issues.,4,positive,safety,2024-04-08
