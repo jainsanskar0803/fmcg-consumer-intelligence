@@ -142,3 +142,4 @@ fmcg_intelligence/
 
 Created by **Sanskar**  
 AI FMCG Consumer Intelligence System
+# fmcg-consumer-intelligence
