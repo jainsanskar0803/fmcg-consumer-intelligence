@@ -1,6 +1,3 @@
-# README.md
-
-````md id="u8w2mk"
 # FMCG Consumer Intelligence Platform
 
 > AI-powered FMCG consumer analytics platform using RAG, LLMs, LangChain, ChromaDB, Streamlit, and MongoDB.
@@ -11,56 +8,56 @@ Built as a full-stack GenAI portfolio project demonstrating practical implementa
 
 ---
 
-## Features
+# Features
 
-### Sentiment Analytics Dashboard
+## Sentiment Analytics Dashboard
 - Real-time KPI tracking
 - Sentiment distribution analysis
 - Consumer trend visualization
 - Keyword and issue detection
 
-### Competitor Intelligence
+## Competitor Intelligence
 - Brand-vs-brand comparison
 - Radar charts and heatmaps
 - Market sentiment benchmarking
 - Product performance insights
 
-### AI-Powered Q&A
+## AI-Powered Q&A
 - Ask natural language questions about reviews
 - Context-aware AI responses using RAG
 - Semantic search with ChromaDB
 - Intelligent review retrieval
 
-### Executive Summary Generator
+## Executive Summary Generator
 - AI-generated strategic business reports
 - Downloadable summaries
 - Product and competitor insights
 - Executive-ready recommendations
 
-### Review Upload System
+## Review Upload System
 - Upload custom CSV/TXT datasets
 - Built-in demo review datasets
 - Automatic preprocessing pipeline
 
-### Hinglish Support
+## Hinglish Support
 - Handles mixed Hindi-English customer reviews
 - Improved sentiment understanding for Indian FMCG market
 
-### MongoDB Logging
+## MongoDB Logging
 - Stores uploaded datasets
 - Tracks AI queries
 - Analytics interaction logging
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Frontend
+## Frontend
 - Streamlit
 - Plotly
 - Custom CSS UI
 
-### Backend & AI
+## Backend & AI
 - Python
 - LangChain
 - Gemini API
@@ -68,10 +65,10 @@ Built as a full-stack GenAI portfolio project demonstrating practical implementa
 - ChromaDB
 - Sentence Transformers
 
-### Database
+## Database
 - MongoDB
 
-### AI Capabilities
+## AI Capabilities
 - Retrieval-Augmented Generation (RAG)
 - Semantic Search
 - Sentiment Analysis
@@ -79,7 +76,7 @@ Built as a full-stack GenAI portfolio project demonstrating practical implementa
 
 ---
 
-## Project Structure
+# Project Structure
 
 ```bash
 fmcg_intelligence/
@@ -110,33 +107,33 @@ fmcg_intelligence/
 ├── .env.example
 ├── requirements.txt
 └── README.md
-````
+```
 
 ---
 
-## Installation
+# Installation
 
-### 1. Clone Repository
+## 1. Clone Repository
 
 ```bash
 git clone https://github.com/jainsanskar0803/fmcg-consumer-intelligence.git
 cd fmcg-consumer-intelligence
 ```
 
-### 2. Create Virtual Environment
+## 2. Create Virtual Environment
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
 ```
 
-### 3. Install Dependencies
+## 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Configure Environment Variables
+## 4. Configure Environment Variables
 
 Create a `.env` file:
 
@@ -146,7 +143,7 @@ GROQ_API_KEY=your_api_key
 MONGODB_URI=your_mongodb_uri
 ```
 
-### 5. Run Application
+## 5. Run Application
 
 ```bash
 streamlit run app.py
@@ -154,50 +151,47 @@ streamlit run app.py
 
 ---
 
-## Use Cases
+# Use Cases
 
-* FMCG consumer sentiment analysis
-* Competitor benchmarking
-* Product issue identification
-* AI-powered business intelligence
-* Executive reporting automation
-* Customer review analytics
-
----
-
-## Highlights
-
-* Enterprise-style analytics dashboard
-* Real-world RAG implementation
-* Production-inspired UI/UX
-* Modern GenAI architecture
-* Portfolio-ready deployment project
-* Practical AI business use case
+- FMCG consumer sentiment analysis
+- Competitor benchmarking
+- Product issue identification
+- AI-powered business intelligence
+- Executive reporting automation
+- Customer review analytics
 
 ---
 
-## Future Improvements
+# Highlights
 
-* Multi-language sentiment analysis
-* Real-time social media ingestion
-* Advanced forecasting models
-* Voice-based analytics assistant
-* Automated competitor alerts
+- Enterprise-style analytics dashboard
+- Real-world RAG implementation
+- Production-inspired UI/UX
+- Modern GenAI architecture
+- Portfolio-ready deployment project
+- Practical AI business use case
 
 ---
 
-## License
+# Future Improvements
+
+- Multi-language sentiment analysis
+- Real-time social media ingestion
+- Advanced forecasting models
+- Voice-based analytics assistant
+- Automated competitor alerts
+
+---
+
+# License
 
 MIT License
 
 ---
 
-## Author
+# Author
 
 Sanskar Jain
 
-LinkedIn: [https://linkedin.com](https://linkedin.com)
-GitHub: [https://github.com/jainsanskar0803](https://github.com/jainsanskar0803)
+GitHub: https://github.com/jainsanskar0803
 
-```
-```
