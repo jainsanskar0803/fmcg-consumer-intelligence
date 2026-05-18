@@ -4,7 +4,7 @@
 
 An enterprise-style consumer intelligence dashboard that helps FMCG companies analyze customer reviews, track competitor sentiment, identify product issues, and generate executive-level business insights using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
 
-Built as a full-stack GenAI portfolio project demonstrating practical implementation of modern AI workflows in a real-world business environment.
+Built as a full-stack GenAI portfolio project demonstrating practical implementation of modern AI systems.
 
 ---
 
@@ -80,32 +80,16 @@ Built as a full-stack GenAI portfolio project demonstrating practical implementa
 
 ```bash
 fmcg_intelligence/
+│
 ├── app.py
-├── views/
-│   ├── dashboard.py
-│   ├── competitor.py
-│   ├── ask_questions.py
-│   ├── executive_summary.py
-│   └── upload.py
-├── components/
-│   ├── styles.py
-│   ├── sidebar.py
-│   └── charts.py
-├── services/
-│   ├── data_loader.py
-│   ├── llm_service.py
-│   └── mongodb_service.py
-├── rag/
-│   └── embeddings.py
-├── utils/
-│   ├── config.py
-│   └── helpers.py
+├── frontend/
+├── backend/
 ├── data/
-│   └── reviews_dataset.csv
-├── .streamlit/
-│   └── config.toml
-├── .env.example
+├── vectorstore/
+├── utils/
+├── assets/
 ├── requirements.txt
+├── .env.example
 └── README.md
 ```
 
@@ -194,4 +178,3 @@ MIT License
 Sanskar Jain
 
 GitHub: https://github.com/jainsanskar0803
-
