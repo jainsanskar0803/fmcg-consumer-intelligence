@@ -2,6 +2,12 @@
 
 > AI-powered FMCG consumer analytics platform using RAG, LLMs, LangChain, ChromaDB, Streamlit, and MongoDB.
 
+## Live Demo
+https://fmcg-ai-intelligence.streamlit.app
+
+## GitHub Repository
+https://github.com/jainsanskar0803/fmcg-consumer-intelligence
+
 An enterprise-style consumer intelligence dashboard that helps FMCG companies analyze customer reviews, track competitor sentiment, identify product issues, and generate executive-level business insights using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
 
 Built as a full-stack GenAI portfolio project demonstrating practical implementation of modern AI systems.
@@ -79,17 +85,20 @@ Built as a full-stack GenAI portfolio project demonstrating practical implementa
 # Project Structure
 
 ```bash
-fmcg_intelligence/
+fmcg-consumer-intelligence/
 │
-├── app.py
-├── frontend/
-├── backend/
+├── .streamlit/
+├── components/
 ├── data/
-├── vectorstore/
+├── models/
+├── rag/
+├── services/
 ├── utils/
-├── assets/
+├── views/
+├── app.py
 ├── requirements.txt
 ├── .env.example
+├── .gitignore
 └── README.md
 ```
 
@@ -178,3 +187,5 @@ MIT License
 Sanskar Jain
 
 GitHub: https://github.com/jainsanskar0803
+
+LinkedIn: https://linkedin.com/in/sanskar-jain
